@@ -1,0 +1,1 @@
+# odoo-git-integration-test
